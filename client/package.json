@@ -9,7 +9,7 @@
   "author": {
     "name": "eyucoder",
     "email": "eyueldaniel0921@gmail.com",
-    "url": "https://github.com/eyucoder"
+    "url": "https://hustlebot.vercel.app/"
   },
   "dependencies": {
     "concurrently": "^7.6.0",
