@@ -5,9 +5,9 @@ import * as dotenv from 'dotenv'
 import Filter from 'bad-words'
 import { rateLimitMiddleware } from './middlewares/rateLimitMiddleware.js'
 
-const allowedOrigins = ['http://eyucoder.com', 'https://chatgpt.eyucoder.com', 'http://localhost']
+const allowedOrigins = ['hustlebot.vercel.app' 'http://localhost']
 
-const filter = new Filter()
+//const filter = new Filter()
 
 // Load environment variables from .env file
 try {
